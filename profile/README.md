@@ -4,38 +4,38 @@
   </a>
 </p>
 
-# AI Org - Claude Code Starter Kits
+# AI Org - Autonomous AI Teams for Claude Code
 
-Build faster with Claude Code. We create AI-powered starter kits that help solo founders ship products in days, not months.
+Each AI team is a specialist that understands its domain. Not a chatbot — an autonomous teammate that executes, not just advises.
 
-**Website:** [aiorg.dev](https://aiorg.dev) | **Docs:** [aiorg.dev/docs](https://aiorg.dev/docs)
+**Website:** [aiorg.dev](https://aiorg.dev) | **Docs:** [aiorg.dev/docs](https://aiorg.dev/docs) | **Blog:** [aiorg.dev/blog](https://aiorg.dev/blog)
 
-## Free Kits
+## Free Teams
 
 ### [Idea OS](https://aiorg.dev/kits/idea-os)
-AI-powered business idea validation. Automates competitor research, market analysis, Mom Test interviews, and PMF scoring.
+Autonomous business idea validation. Runs competitor research, market analysis, Mom Test interviews, and PMF scoring — you just answer questions.
 
 ```bash
 npx @aiorg/cli init idea-os ~/my-idea
 ```
 
-### [Landing Page Kit](https://aiorg.dev/kits/landing-page)
-Add GEO (Generative Engine Optimization) to any Astro project. AI-optimized landing pages that get cited by ChatGPT and Perplexity.
+### [Landing Page](https://aiorg.dev/kits/landing-page)
+AI teammate for GEO (Generative Engine Optimization). Builds landing pages optimized for both Google and AI chatbots like ChatGPT and Perplexity.
 
 ```bash
 npx @aiorg/cli init landing-page ~/my-landing
 ```
 
-## Paid Kits
+## Paid Teams
 
-| Kit | Description |
-|-----|-------------|
-| [SaaS Dev Team](https://aiorg.dev/kits/saas-starter) | Auth, billing, dashboard. Launch your SaaS in days. |
-| [Marketing OS](https://aiorg.dev/kits/marketing-os) | Autonomous AI marketing team. SEO, content, outreach. |
-| [Product OS](https://aiorg.dev/kits/product-os) | AI-powered product management. |
-| [QA Team](https://aiorg.dev/kits/qa-team) | AI-powered testing and quality assurance. |
-| [Support Team](https://aiorg.dev/kits/support-team) | AI customer support automation. |
-| [Investor OS](https://aiorg.dev/kits/investor-os) | Fundraising preparation with AI. |
+| Team | What it replaces |
+|------|-----------------|
+| [SaaS Dev Team](https://aiorg.dev/kits/saas-starter) | Your first engineer. Auth, billing, dashboard — production-ready. |
+| [Marketing OS](https://aiorg.dev/kits/marketing-os) | Head of Marketing. SEO, content, outreach — fully autonomous. |
+| [Product OS](https://aiorg.dev/kits/product-os) | Product Manager. Roadmaps, specs, user research. |
+| [QA Team](https://aiorg.dev/kits/qa-team) | QA Engineer. Testing, coverage, bug detection. |
+| [Support Team](https://aiorg.dev/kits/support-team) | Support Lead. Customer issues, docs, escalation. |
+| [Investor OS](https://aiorg.dev/kits/investor-os) | CFO for fundraising. Pitch decks, financial models, due diligence. |
 
 Visit [aiorg.dev](https://aiorg.dev) to get started.
 
@@ -44,10 +44,10 @@ Visit [aiorg.dev](https://aiorg.dev) to get started.
 ## Open Source Tools
 
 ### [@aiorg/cli](https://github.com/aiorgdev/cli)
-Official CLI for downloading and managing aiorg kits.
+Install and manage AI teams from the command line.
 
 ```bash
-npx @aiorg/cli init <kit-name> ~/my-project
+npx @aiorg/cli init <team-name> ~/my-project
 ```
 
 ### [claude-plugins](https://github.com/aiorgdev/claude-plugins)
